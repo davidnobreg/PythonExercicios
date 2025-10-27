@@ -1,0 +1,2 @@
+# PythonExercicios
+Exercicios de python 
